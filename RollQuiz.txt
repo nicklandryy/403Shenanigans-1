@@ -9,8 +9,8 @@ farmer
 hampton
 hebert
 jones
-[x] kilpatrick
-landry
+kilpatrick
+landry [x]
 lee
 lee
 mounts
