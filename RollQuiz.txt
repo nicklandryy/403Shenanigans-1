@@ -9,7 +9,7 @@ farmer
 hampton
 hebert
 jones
-kilpatrick
+[x] kilpatrick
 landry
 lee
 lee
